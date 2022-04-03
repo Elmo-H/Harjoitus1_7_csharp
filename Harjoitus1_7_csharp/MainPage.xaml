@@ -45,5 +45,5 @@
                 Name="textBlock1">
             </TextBlock>
         </Border>
-
+    </StackPanel>
 </Page>
